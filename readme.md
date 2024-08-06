@@ -8,8 +8,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=rodrigox30&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rodrigox30&count_private=true&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rodrigox30)](https://git.io/streak-stats)
 
 <!--
