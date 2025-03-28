@@ -6,9 +6,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rodrigox30)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Anurag's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=rodrigox30&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=Rodrigox30&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER))
+[![Anurag's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=rodrigox30&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github-readme-stats.vercel.app/api?username=Rodrigox30&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rodrigox30)](https://git.io/streak-stats)
 
 <!--
